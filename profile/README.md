@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to Secret-Scripting 🌐
 
-<!--
+Welcome to **Secret Scripting** — an exclusive organisation dedicated to crafting highly secretive and innovative software products. Our work remains concealed from the general public, accessible only to a select group of trusted individuals.
 
-**Here are some ideas to get you started:**
+## What We Do
+At Secret Scripting, we specialise in software development across the following programming languages:
+- **C**, **C++**, **C#**  
+- **JavaScript**
+- **Rust**  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our focus is on pushing the boundaries of what’s possible while ensuring our projects remain shrouded in mystery.
+
+---
+
+Interested in learning more? Unfortunately, you’ll need to be one of the chosen few to find out. 😉
